@@ -1,8 +1,0 @@
-baseURL = 'https://example.org/'
-locale = 'en-sv'
-title = 'Philippe Portfolio'
-theme = 'hugo-coder' 
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
